@@ -1,6 +1,4 @@
-# Hi there, I'm [Coleen] 👋
-
-![Profile Banner](https://your-image-url.com/banner.jpg)
+# Hi there, I'm **Coleen** 👋
 
 Welcome to my GitHub profile! I'm a passionate developer with a love for building innovative and impactful projects. Here's a bit more about me:
 
