@@ -27,14 +27,6 @@
 
 ---
 
-## 📂 Featured Projects
-🔹 [**DexHub**](#) – Pokémon-inspired web app with modern UI  
-🔹 [**E-AcadEase**](#) – Academic progress monitoring system with chatbot (Thesis project)  
-🔹 [**VT4aAds**](#) – Mobile ad creation app with React Native + WordPress backend  
-🔹 [**Paica**](#) – Template-based ad creator for small businesses  
-
----
-
 ## 📊 GitHub Stats
 ![Coleen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kewlinnn&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kewlinnn&layout=compact&theme=radical)
