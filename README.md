@@ -1,23 +1,42 @@
-# Hi there, I'm **Coleen** 👋
+# Hi, I'm Coleen 👋  
 
-Welcome to my GitHub profile! I'm a passionate developer with a love for building innovative and impactful projects. Here's a bit more about me:
-
-## 🚀 About Me
-- 🌱 I’m currently learning **React Native** and improving my skills in **UI/UX design**.
-- 🎨 I love designing intuitive and engaging user interfaces.
-- 💬 Ask me about **React Native**, **UI/UX design**, or any interesting tech!
-
-## 🛠️ Technologies & Tools
-- **Languages**: JavaScript, TypeScript, HTML, CSS
-- **Frameworks/Libraries**: React Native, React, Node.js
-- **Tools**: Figma, Canva, VSCode, Git, GitHub
-
-## 🌐 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/coleenagarcia/)
-
-## 📫 How to Reach Me
-Feel free to reach out if you have any questions or just want to connect!
+🎓 **Computer Science Graduate** | 💻 **Aspiring Full Stack Developer** | 🎨 **UI/UX Designer**
 
 ---
 
-⭐️ From [kewlinnn](https://github.com/your-username)
+## 🚀 About Me
+- 🌱 Currently learning **React Native, Vue, and Node.js**  
+- 🎯 Goal: Become a **well-rounded Software Developer** 
+- 🛠 I enjoy building **user-friendly apps**, working on **API integrations**, and designing **intuitive UIs**  
+- 🎵 Hobbies: **Chess, coding, music, and TCG/Gunpla**
+
+---
+
+## 🛠️ Tech Stack
+**Languages**  
+`JavaScript` `TypeScript` `C/C++` `HTML` `CSS`
+
+**Frameworks & Libraries**  
+`React` `React Native` `Vue` `Node.js` `Express.js`
+
+**Databases & APIs**  
+`PostgreSQL` `REST API` `WordPress`
+
+**Tools**  
+`Git & GitHub` `Figma` `Canva` `Postman` `VSCode`
+
+---
+
+## 📊 GitHub Stats
+![Coleen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kewlinnn&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kewlinnn&layout=compact&theme=radical)
+
+---
+
+## 🌐 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/coleenagarcia/)  
+<!-- [![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel)](YOUR-PORTFOLIO-LINK) -->
+
+---
+
+⭐️ _Always open to collaboration and learning new things!_
