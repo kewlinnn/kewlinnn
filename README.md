@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 - 🌱 Currently learning **React Native, Vue, and Node.js**  
-- 🎯 Goal: Become a **well-rounded Frontend Developer** 
+- 🎯 Goal: Become a **well-rounded Software Developer** 
 - 🛠 I enjoy building **user-friendly apps**, working on **API integrations**, and designing **intuitive UIs**  
 - 🎵 Hobbies: **Chess, coding, music, and TCG/Gunpla**
 
@@ -34,8 +34,7 @@
 ---
 
 ## 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/YOUR-LINKEDIN/)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel)](YOUR-PORTFOLIO-LINK)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/coleenagarcia/)  
+<!-- [![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel)](YOUR-PORTFOLIO-LINK) --!>
 ---
 ⭐️ _Always open to collaboration and learning new things!_
