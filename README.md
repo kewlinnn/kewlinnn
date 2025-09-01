@@ -35,6 +35,8 @@
 
 ## 🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/coleenagarcia/)  
-<!-- [![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel)](YOUR-PORTFOLIO-LINK) --!>
+<!-- [![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel)](YOUR-PORTFOLIO-LINK) -->
+
 ---
+
 ⭐️ _Always open to collaboration and learning new things!_
